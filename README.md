@@ -21,17 +21,31 @@ SafeCon is a real-time AI system designed to detect and prevent harmful online i
    ```bash
    cd Safecon-Submitted
    ```
-3. Install the dependencies:
+3. Navigate to the Frontend directory:
+   ```bash
+   cd public
+   ```
+4. install the dependencies:
    ```bash
    npm install
    ```
-4. Start the server:
+5. Start the React.js server:
    ```bash
    npm start
    ```
-
+6. Navigate to the bsckend directory:
+   ```bash
+   cd server
+   ```
+6. Start the Node.js server:
+   ```bash
+   npm start
+   ```
+7. Start the flask code
+   ```bash
+   python Fast.py
+   ```
 ## Contributors
 - **Sultan Sallahudin**
 - **Aftab Ahmed**
 - **Muhammad Faizan Hameed**
-```
