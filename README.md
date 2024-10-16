@@ -33,7 +33,7 @@ SafeCon is a real-time AI system designed to detect and prevent harmful online i
    ```bash
    npm start
    ```
-6. Navigate to the bsckend directory:
+6. Navigate to the backend directory:
    ```bash
    cd server
    ```
