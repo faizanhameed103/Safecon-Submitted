@@ -1,6 +1,3 @@
-Here is the `.md` file content, ready to copy-paste for your `README.md`:
-
-```markdown
 # SafeCon: AI-powered Cyber Grooming Detection System
 
 SafeCon is a real-time AI system designed to detect and prevent harmful online interactions on messaging platforms. It uses **machine learning** and **NLP (BERT)** to identify potential cyber grooming behavior. Key features include real-time detection, user reporting, and fake profile identification.
@@ -19,7 +16,7 @@ SafeCon is a real-time AI system designed to detect and prevent harmful online i
 1. Clone the repository:  
    ```bash
    git clone https://github.com/faizanhameed103/Safecon-Submitted.git
-   ```
+   
 2. Navigate to the project directory:
    ```bash
    cd Safecon-Submitted
